@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlanetsTrack : MonoBehaviour
 {
-   public List<GameObject> planets = new List<GameObject>();
+   public List<GameObject> trackOne = new List<GameObject>();
    public List<GameObject> trackTwo = new List<GameObject>();
    public List<GameObject> trackThree = new List<GameObject>();
 }
